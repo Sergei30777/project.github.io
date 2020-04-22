@@ -442,7 +442,7 @@ color: #FFFFFF;
 
 }
 .section4__Leave_ul-back{
-	background-image: url(../imeges/tor23.png);
+	background-image: url(imeges/tor23.png);
 	background-repeat: no-repeat;
 	width: 1006px;
 	height: 645px;
@@ -607,7 +607,7 @@ margin-top: 50.94px;
 .section5__container_back{
 max-width: 1440px;
 height: 864px;
-background-image: url(../imeges/fr.jpg);
+background-image: url(imeges/fr.jpg);
 display: flex;
 }
 .section5__container_img{
@@ -697,7 +697,7 @@ text-align: center;
 color: #363636;
 }
 .section6__container_block{
-background-image: url(../imeges/Frame.jpg);
+background-image: url(imeges/Frame.jpg);
 height: 776px;
 max-width: 100%;
 }
@@ -775,7 +775,7 @@ display: flex;
 position: relative;
 height: 953.9px;
 max-width: 100%;
-background-image: url(../imeges/hero72.jpg);
+background-image: url(imeges/hero72.jpg);
 	background-size: cover;
 
 }
